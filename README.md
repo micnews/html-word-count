@@ -1,5 +1,7 @@
 ## SYNOPSIS
-Count words in HTML document
+Counts words in HTML body.
+
+[![Build Status](https://travis-ci.org/micnews/html-word-count.svg)](https://travis-ci.org/micnews/html-word-count)
 
 ## USAGE
 
