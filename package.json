@@ -1,0 +1,26 @@
+{
+  "name": "html-word-count",
+  "version": "0.1.0",
+  "description": "Count words in HTML document",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/micnews/html-word-count.git"
+  },
+  "author": "Mic Network, Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micnews/html-word-count/issues"
+  },
+  "homepage": "https://github.com/micnews/html-word-count",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "html-to-text": "^1.3.0",
+    "wordcount": "^1.0.0"
+  }
+}
